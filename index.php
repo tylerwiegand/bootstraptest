@@ -35,18 +35,31 @@
 	</head>
 	<body>
 		<div class="container">
-			<h1>About Wizard</h1>
-			<p id="para1">
-			Er alluviale hellingen wegwerpen nu er schippers. Mislukking wat ook voorloopig verdedigen
-			per inlandsche dan. Middelpunt al op in belangrijk specerijen nu. Markt zeker en sinds zijde
-			er. Tandrad koelies na voordat op te. Procede bewogen het slechts brengen are energie. Opening
-			trekken af gevolgd in ze na eronder plaatse.
-			</p>
-			<p id="para2">
-			Rug gelukken des ten gehouden zandlaag middelen bedreven. Dag veld wel daad vast aard wiel vrij.
-			Dank bouw ze doel ze eind de of vele. Al kuil daar na nu toch werk. Onderling resideert beteekentin
-			ad eigenaars plaatsing nu bevolking. Openen na koffie ze lijnen de in. Dient ver ter geeft ellenleven
-			wordt hun later.</p>
+			<div class="row">
+				<h1>About Wizard</h1>
+				<div class="span3"><img src="/img/wizard1.jpg" alt="Majestic Wizard" /></div>
+				<div class="span9">
+					<p id="para1">
+					Er alluviale hellingen wegwerpen nu er schippers. Mislukking wat ook voorloopig verdedigen
+					per inlandsche dan. Middelpunt al op in belangrijk specerijen nu. Markt zeker en sinds zijde
+					er. Tandrad koelies na voordat op te. Procede bewogen het slechts brengen are energie. Opening
+					trekken af gevolgd in ze na eronder plaatse.
+					</p>
+				</div>
+			</div>
+			<div class="row"
+				<div class="span12"
+					<p id="para2">
+					Rug gelukken des ten gehouden zandlaag middelen bedreven. Dag veld wel daad vast aard wiel vrij.
+					Dank bouw ze doel ze eind de of vele. Al kuil daar na nu toch werk. Onderling resideert beteekentin
+					ad eigenaars plaatsing nu bevolking. Openen na koffie ze lijnen de in. Dient ver ter geeft ellenleven
+					wordt hun later.</p>
+				</div>
+			</div>
+		<div class="row">
+			<div class="span4"><img src="/img/eviltroll.jpg" alt="evil troll"></div>
+			<div class="span4"><img src="/img/wizardhat.jpg" alt="wizard hat"></div>
+			<div class="span4"><img src="/img/wizardsword.png" alt="wizard sword"></div>
 		</div>
 	</body>
 </html>
